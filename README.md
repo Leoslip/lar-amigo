@@ -16,4 +16,4 @@ Coloque todos os arquivos na mesma pasta e abra `index.html`.
 ## Contato
 
 Email: contato@laramigo.org.br
-Telefone: (11) 3456-7890
+Telefone: (61) 3456-7890
